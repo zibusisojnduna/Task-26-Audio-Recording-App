@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-native-audio-recorder-player": "^3.6.12",
+    "react-native-permissions": "^5.2.3"
+  }
+}

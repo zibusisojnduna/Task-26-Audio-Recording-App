@@ -1,3 +1,5 @@
+<img src="https://socialify.git.ci/zibusisojnduna/Task-26-Audio-Recording-App/image?language=1&name=1&owner=1&stargazers=1&theme=Dark" alt="Task-26-Audio-Recording-App" width="640" height="320" />
+
 <h1>Task 26-Audio Recording App</h1>
 
 <p>A simple mobile app to record, play, and delete voice notes using React Native. This app allows users to create digital journal entries in the form of audio recordings, view a list of recorded notes, and manage recordings easily.</p>

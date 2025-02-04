@@ -92,7 +92,7 @@ npx react-native run-android
 
 <h1>5. Use The App</h1>
 
-<p>Once the app is running:</p>
+<h2>Once the app is running:</h2>
 
 <p>Start a New Recording: Tap the "Start Recording" button to begin recording.</p>
 <p>Stop Recording: Tap "Stop Recording" to finish the audio note.</p>
